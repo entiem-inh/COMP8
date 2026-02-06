@@ -1,12 +1,12 @@
 #W2A3
-a = int(input("Nhập số a: "))
-b = int(input("Nhập số b: "))
-print ("Tổng là: ", a+b)
-print ("Hiệu là:", a-b)
-print ("Tích là:", a*b)
-print ("Thương là:", a/b)
-print ("Phần dư là:", a%b)
-print ("Phần nguyên là:", a//b)
+a = int(input())
+b = int(input())
+print ("Tổng:", a+b)
+print ("Hiệu:", a-b)
+print ("Tích:", a*b)
+print ("Thương:", a/b)
+print ("Phần dư:", a%b)
+print ("Phần nguyên:", a//b)
 
 #W2A4
 a1 = int(input("Nhập 3 điểm hệ số 1: "))
